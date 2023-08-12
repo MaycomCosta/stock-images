@@ -9,7 +9,7 @@ const Global = createGlobalStyle`
   }
   body {
     font-family: "Times New Roman", Times, serif;
-    background-color: #11395a;
+    background-color: #0f2637;
   }
 `
 
